@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a3b3ef74-2653-4e5c-8d40-cbbf5904a787}">
+		<property name="assetPath">
+			<value>bestfootsteps/woodSteps2-13.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.26164583333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c8b7c04b-b84b-4a73-bea2-3146c8c0fe6b}</destination>
+		</relationship>
+	</object>
+</objects>
